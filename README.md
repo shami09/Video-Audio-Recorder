@@ -1,1 +1,1 @@
-# This is a package to record audio and video locally using device microphone and camera module in python
+# Video Audio Recorder: Recording Audio and Video on the device simultaneously using device microphone and camera module/ device camera
