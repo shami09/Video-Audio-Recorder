@@ -7,3 +7,5 @@ Features
 * Easy-to-use interface
 
 Note: This package is in beta testing.
+
+### Installation and usage
