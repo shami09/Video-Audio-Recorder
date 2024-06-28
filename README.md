@@ -5,3 +5,5 @@ Features
 * Use device's built-in microphone and camera
 * Save recordings in common formats
 * Easy-to-use interface
+
+Note: This package is in beta testing.
